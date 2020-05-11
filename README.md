@@ -10,7 +10,7 @@ para poder rodar o app-infocity
 
 npm i react-native-action-button
 
-npm ireact-native-advanced-forms
+npm i react-native-advanced-forms
 
 npm i react-native-elements
 
