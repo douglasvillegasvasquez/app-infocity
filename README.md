@@ -7,6 +7,7 @@ isso poupou tempo de instalacao manual de outro pacotes que se encontram no pack
 use npm install para poder rodar o app-infocity
 
 para instalar os pacotes que o gitignore ignorou rsrs
+
 npm i react-native-action-button
 
 npm ireact-native-advanced-forms
